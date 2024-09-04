@@ -1,7 +1,6 @@
 # Lecture 01 - Syllabus, Intro and High Level Overview
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 **Table of Contents**
 
@@ -395,4 +394,5 @@ follow someone else's idea of "the right way" without pondering it yourself.
 - Learn about
   [Design Systems from Designary](https://blog.designary.com/p/spacing-systems-and-scales-ui-design)
 - Read the [5 Rules for Readability](https://winterpm.com/#)
+- Read about [Low Fidelity Prototyping](https://www.figma.com/resource-library/low-fidelity-prototyping/) from Figma
 - Bring an interesting CSS Framework and Component Library to class next time.
