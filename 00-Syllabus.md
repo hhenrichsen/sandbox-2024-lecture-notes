@@ -55,7 +55,7 @@ verbose communication, and I prefer to get straight to the point. I have worked
 enough with AI that I can generally tell, and I worry about situations like this
 becoming more and more common:
 
-![[Pasted image 20240721103512.png]]
+![](./assets/use-of-ai.png)
 
 ## Grading
 
