@@ -394,5 +394,7 @@ follow someone else's idea of "the right way" without pondering it yourself.
 - Learn about
   [Design Systems from Designary](https://blog.designary.com/p/spacing-systems-and-scales-ui-design)
 - Read the [5 Rules for Readability](https://winterpm.com/#)
-- Read about [Low Fidelity Prototyping](https://www.figma.com/resource-library/low-fidelity-prototyping/) from Figma
+- Read about
+  [Low Fidelity Prototyping](https://www.figma.com/resource-library/low-fidelity-prototyping/)
+  from Figma
 - Bring an interesting CSS Framework and Component Library to class next time.

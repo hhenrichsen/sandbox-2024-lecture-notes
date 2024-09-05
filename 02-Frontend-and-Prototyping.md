@@ -1,4 +1,3 @@
-
 # Lecture 02 - Frontend and Prototyping
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -10,6 +9,7 @@
     - [Links](#links)
     - [Events and Announcements](#events-and-announcements)
     - [News](#news)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Pre-Lecture
