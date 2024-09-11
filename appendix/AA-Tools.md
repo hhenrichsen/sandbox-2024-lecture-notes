@@ -44,3 +44,10 @@
 - [Docker](https://www.docker.com/) and Docker Compose - Remove (most) "works on
   my machine", and as a bonus, make it work the same as in prod, too
 - [Minio](https://min.io/) - S3-compatible, locally-runnable object storage
+
+## Prototyping
+
+- [My JSON Server](https://my-json-server.typicode.com/) – turn a JSON file in
+  your repo into a fake API.
+- [JSON Placeholder API](https://jsonplaceholder.typicode.com/) - a preset fake
+  API that can be used to grab data quickly.
