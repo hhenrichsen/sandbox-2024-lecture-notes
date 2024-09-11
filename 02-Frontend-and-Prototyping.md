@@ -25,9 +25,9 @@
 _I mostly know about Lucid events, but feel free to slack me a day or two before
 class and I can get things added here._
 
-- Lucid Tech Talk - next Tuesday (September 17th)! Come hear from me and Alex
-  Blackburn about how and why we built a developer platform at Lucid, if you're
-  not tired of my yapping by 5:15.
+- Lucid Tech Talk / ACM Opening Social - next Tuesday (September 17th) in TMCB
+  1170! Come hear from me and Alex Blackburn about how and why we built a
+  developer platform at Lucid if you want to hear me talk twice in a week.
 
 ### News
 
