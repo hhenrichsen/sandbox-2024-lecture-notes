@@ -18,4 +18,6 @@
 
 ## Appendices
 
-- [Appendix A: Useful Tools](./AA-Tools.md)
+- [Appendix A: Useful Tools](./appendix/A-Tools.md)
+- [Appendix B: Frontend Frameworks](./appendix/B-Frontend-Frameworks.md)
+- [Appendix C: Design Notes](./appendix/C-Design-Notes.md)
