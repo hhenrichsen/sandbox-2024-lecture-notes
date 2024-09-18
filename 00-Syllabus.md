@@ -90,7 +90,7 @@ beforehand and we can figure out an equivalent or more individualized deadline.
 If you think you've done something equivalent already, reach out and let's talk
 about it. I'd rather you focus on building, and give you credit where it's due.
 
-#### Assignment 1 - Responsive Design (8pt)
+#### Assignment 1 - Responsive Design (8pt) September 27th, 2024
 
 **Option 1** Build a simple blog site that does the following:
 
@@ -124,7 +124,7 @@ Submit a deployed link to these pages.
 In either option, you may submit an additional feature that boosts the user
 experience for an additional 4 points.
 
-#### Assignment 2 - Iteration Speed (8pt)
+#### Assignment 2 - Iteration Speed (8pt) October 22nd, 2024
 
 Record a video of (come in during office hours and show me, or share your code
 with me with a brief explanation of) two features you've developed or are
@@ -137,7 +137,7 @@ otherwise using to iterate quickly. Some ideas include:
 
 Up to 3 features may be submitted for 4 points each.
 
-#### Assignment 3 - Security (8pt)
+#### Assignment 3 - Security (8pt) December 13th, 2024
 
 This assignment should be done individually.
 
@@ -155,7 +155,7 @@ assignments category.
 
 ### Check-ins - (72pts) 60%
 
-#### Check-in 1
+#### Check-in 1 (October 11th, 2024)
 
 There are two options for this. With the other engineers on your team, make an
 appointment during office hours, or submit a recording at your leisure. Either
@@ -172,7 +172,7 @@ way, we'll talk about these things:
 - 12pts - Demonstrating Progress Towards a Production Application
 - 8pts - Answering Follow-up Questions
 
-#### Check-in 2
+#### Check-in 2 (December 18th, 2024)
 
 There are two options for this as well. With the other engineers on your team,
 make an appointment during office hours, or submit a recording at your leisure.
