@@ -339,11 +339,15 @@ export const appRouter = router({
 export type AppRouter = typeof appRouter;
 ```
 
-I have opted to use this since it's a lot more straightforward than creating
-routers, dealing with requests, etc., when the main thing I care about is
-writing the actual procedures and logic. The other two generally either require
-boilerplate, or require knowing about the right niche technology that can turn a
-database into a REST API or a GraphQL server.
+I like to use this since it's a lot more straightforward than creating routers,
+dealing with requests, etc., when the main thing I care about is writing the
+actual procedures and logic. The other two generally either require boilerplate,
+or require knowing about the right niche technology that can turn a database
+into a REST API or a GraphQL server.
+
+I've found that server actions can take the role of these in Next.js and work
+better on Vercel due to the way things are split up, but tRPC has been a useful
+tool for backends in multiple frameworks.
 
 ## Common Database Attributes
 
