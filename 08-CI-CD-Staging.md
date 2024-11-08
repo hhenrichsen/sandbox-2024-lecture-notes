@@ -1,5 +1,24 @@
 # Lecture 08 - CI, CD, Staging Environments
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Lecture 08 - CI, CD, Staging Environments](#lecture-08---ci-cd-staging-environments)
+  - [Links](#links)
+  - [Events and Announcements](#events-and-announcements)
+  - [News](#news)
+  - [Follow-Up from Last Time](#follow-up-from-last-time)
+  - [Continuous Integration](#continuous-integration)
+    - [Automated Tests](#automated-tests)
+    - [Incremental Changes](#incremental-changes)
+    - [Code Reviews](#code-reviews)
+    - [GitHub Actions](#github-actions)
+  - [Continuous Delivery](#continuous-delivery)
+  - [Staging Deploys](#staging-deploys)
+  - [Licensing](#licensing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Links
 
 - [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdcu-u0LD5kB9rhOcA7E1ZCw6w05RlejzrFrRALEz7krkLjVQ/viewform?usp=sf_link)

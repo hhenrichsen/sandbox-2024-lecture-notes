@@ -1,5 +1,28 @@
 # Lecture 03 - Q&A Day 1
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Lecture 03 - Q\&A Day 1](#lecture-03---qa-day-1)
+  - [Pre-Lecture](#pre-lecture)
+    - [Links](#links)
+    - [Events and Announcements](#events-and-announcements)
+    - [News](#news)
+    - [Follow-Up from Last Time](#follow-up-from-last-time)
+  - [Priorities of a Startup](#priorities-of-a-startup)
+  - [Serverside Rendering](#serverside-rendering)
+    - [Why Do Serverside Rendering?](#why-do-serverside-rendering)
+    - [How Does Serverside Rendering Work?](#how-does-serverside-rendering-work)
+  - [Hosting](#hosting)
+    - [Where Should I Host?](#where-should-i-host)
+    - [About Vercel](#about-vercel)
+    - [About Lambdas](#about-lambdas)
+    - [About AWS / GCP / Azure](#about-aws--gcp--azure)
+    - [About Containerization](#about-containerization)
+  - [What Are Good Resources for Learning Web Design?](#what-are-good-resources-for-learning-web-design)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Pre-Lecture
 
 ### Links

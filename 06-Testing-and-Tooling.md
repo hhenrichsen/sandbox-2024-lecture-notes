@@ -1,4 +1,36 @@
+
 # Lecture 06 - Testing and Tooling
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+- [Lecture 06 - Testing and Tooling](#lecture-06---testing-and-tooling)
+  - [Pre-Lecture](#pre-lecture)
+    - [Links](#links)
+    - [Events and Announcements](#events-and-announcements)
+    - [News](#news)
+    - [Articles](#articles)
+  - [Review from Last Time](#review-from-last-time)
+    - [Rolling Your Own Auth](#rolling-your-own-auth)
+    - [Password Salting](#password-salting)
+      - [Rainbow Table](#rainbow-table)
+  - [When to Test](#when-to-test)
+  - [Types of Tests](#types-of-tests)
+    - [Unit](#unit)
+    - [Integration](#integration)
+    - [End to End](#end-to-end)
+  - [Demo: Unit Tests for Components and Pages](#demo-unit-tests-for-components-and-pages)
+    - [Components at Test](#components-at-test)
+    - [Package Setup](#package-setup)
+    - [Writing a Unit Test](#writing-a-unit-test)
+      - [Aside: Setup Functions](#aside-setup-functions)
+      - [Aside: Wrapper Functions](#aside-wrapper-functions)
+  - [Automated Tests](#automated-tests)
+  - [Other Tooling Worth Considering](#other-tooling-worth-considering)
+    - [Build Check](#build-check)
+    - [Linters](#linters)
+    - [Container Build](#container-build)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Pre-Lecture
 

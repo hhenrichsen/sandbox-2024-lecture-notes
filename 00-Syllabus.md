@@ -1,5 +1,30 @@
 # Syllabus + Outline
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Syllabus + Outline](#syllabus--outline)
+  - [Schedule](#schedule)
+  - [Important Links](#important-links)
+  - [Communication](#communication)
+    - [Feedback](#feedback)
+    - [Use of AI](#use-of-ai)
+  - [Grading](#grading)
+    - [Attendance - (12pts) 10%](#attendance---12pts-10)
+    - [Participation - (12pts) 10%](#participation---12pts-10)
+    - [Assignments - (24pts) 20%](#assignments---24pts-20)
+      - [Assignment 1 - Responsive Design (8pt) September 27th, 2024](#assignment-1---responsive-design-8pt-september-27th-2024)
+      - [Assignment 2 - Iteration Speed (8pt) October 22nd, 2024](#assignment-2---iteration-speed-8pt-october-22nd-2024)
+      - [Assignment 3 - Security (8pt) December 13th, 2024](#assignment-3---security-8pt-december-13th-2024)
+    - [Check-ins - (72pts) 60%](#check-ins---72pts-60)
+      - [Check-in 1 (October 11th, 2024)](#check-in-1-october-11th-2024)
+      - [Check-in 2 (December 18th, 2024)](#check-in-2-december-18th-2024)
+  - [Honor Code](#honor-code)
+  - [Preventing \& Responding to Sexual Misconduct](#preventing--responding-to-sexual-misconduct)
+  - [Student Disability](#student-disability)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Schedule
 
 | Date                                | Subject                                  |

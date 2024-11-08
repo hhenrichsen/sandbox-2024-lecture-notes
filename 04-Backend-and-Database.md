@@ -1,5 +1,34 @@
 # Lecture 04 - Backend and Databases
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Lecture 04 - Backend and Databases](#lecture-04---backend-and-databases)
+  - [Pre-Lecture](#pre-lecture)
+    - [Links](#links)
+    - [Events and Announcements](#events-and-announcements)
+    - [News](#news)
+    - [Articles](#articles)
+  - [Demo - Responsiveness](#demo---responsiveness)
+  - [Backend and Databases](#backend-and-databases)
+  - [Ways to Communicate](#ways-to-communicate)
+    - [REST and HTTP](#rest-and-http)
+    - [GraphQL](#graphql)
+      - [On Performance](#on-performance)
+    - [RPC, gRPC, and tRPC](#rpc-grpc-and-trpc)
+      - [gRPC](#grpc)
+      - [tRPC](#trpc)
+  - [Common Database Attributes](#common-database-attributes)
+    - [Relational](#relational)
+    - [Document](#document)
+    - [Graph](#graph)
+    - [Key / Value](#key--value)
+    - [Blob](#blob)
+    - [In-Memory](#in-memory)
+    - [Flatfile](#flatfile)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Pre-Lecture
 
 ### Links

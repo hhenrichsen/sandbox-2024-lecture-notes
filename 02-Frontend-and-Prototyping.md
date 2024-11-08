@@ -1,6 +1,7 @@
 # Lecture 02 - Frontend and Prototyping
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 **Table of Contents**
 
@@ -9,6 +10,25 @@
     - [Links](#links)
     - [Events and Announcements](#events-and-announcements)
     - [News](#news)
+    - [Follow-Up from Last Time](#follow-up-from-last-time)
+      - [(Advice) Validation and Curiosity](#advice-validation-and-curiosity)
+      - [(Advice) What Database Would You Recommend for Analytics and Data Analysis?](#advice-what-database-would-you-recommend-for-analytics-and-data-analysis)
+      - [(Advice) What Tech Stack Do You Recommend for Fast Iteration?](#advice-what-tech-stack-do-you-recommend-for-fast-iteration)
+  - [Prototyping](#prototyping)
+    - [(Advice) Learn from Prior Art](#advice-learn-from-prior-art)
+    - [(Advice) Keep Things Rough](#advice-keep-things-rough)
+    - [(Advice) Have Multiple Versions (at Least 3)](#advice-have-multiple-versions-at-least-3)
+    - [(Advice) Get Things in Your (and Users') Hands](#advice-get-things-in-your-and-users-hands)
+    - [(Demo) Let's Design a Page](#demo-lets-design-a-page)
+  - [Frontend](#frontend)
+    - [(Lecture) Interactive Applications Are Built on the DOM and JavaScript](#lecture-interactive-applications-are-built-on-the-dom-and-javascript)
+      - […and Sometimes More](#and-sometimes-more)
+      - [Props In, Listeners Out](#props-in-listeners-out)
+    - [(Lecture) There Are Lots of Devices](#lecture-there-are-lots-of-devices)
+    - [(Advice) Pick a Library and Stick to It](#advice-pick-a-library-and-stick-to-it)
+      - […But Pick One That Works For You](#but-pick-one-that-works-for-you)
+  - [(Demo) Bootstrapping a Next.js Project](#demo-bootstrapping-a-nextjs-project)
+  - [For Next Time](#for-next-time)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
