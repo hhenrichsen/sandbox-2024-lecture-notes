@@ -27,8 +27,8 @@
 - [12: Spring Syllabus, Services, and Modelling](./12-Spring-Syllabus-Services-Modelling.md)
 - 13: Hackathon Class Project
 - 14: Project Organization, Design Patterns
-- 15: Q&A Day 3
-- 16: Access Models
+- [15: Q&A Day 3](./15-QnA-Day-3.md)
+- [16: Access Models](./16-Access-Models.md)
 - 17: Industry Day - Interviewing, Policies
 - 18: CI / CD Revisited
 - 19: Q&A Day 4
