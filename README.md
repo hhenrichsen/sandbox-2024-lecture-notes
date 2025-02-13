@@ -29,7 +29,7 @@
 - 14: Project Organization, Design Patterns
 - [15: Q&A Day 3](./15-QnA-Day-3.md)
 - [16: Access Models](./16-Access-Models.md)
-- 17: Industry Day - Interviewing, Policies
+- [17: About the Industry](./17-About-the-Industry.md)
 - 18: CI / CD Revisited
 - 19: Q&A Day 4
 - 20: Building for Scale
