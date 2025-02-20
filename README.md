@@ -30,7 +30,7 @@
 - [15: Q&A Day 3](./15-QnA-Day-3.md)
 - [16: Access Models](./16-Access-Models.md)
 - [17: About the Industry](./17-About-the-Industry.md)
-- 18: CI / CD Revisited
+- [18: CI / CD Revisited](./18-CI-Revisited.md)
 - 19: Q&A Day 4
 - 20: Building for Scale
 - 21: Headers, Caching, and CDNs
