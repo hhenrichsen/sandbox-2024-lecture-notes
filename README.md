@@ -32,10 +32,10 @@
 - [17: About the Industry](./17-About-the-Industry.md)
 - [18: CI / CD Revisited](./18-CI-Revisited.md)
 - 19: Q&A Day 4
-- 20: Building for Scale
-- 21: Headers, Caching, and CDNs
-- 22: Q&A Day 5
-- 23: Retrospective
+- [20: Building for Scale](./19-Building-for-Scale.md)
+- [21: Headers, Caching, and CDNs](./20-Headers-Caching-CDNs.md)
+- [22: Q&A Day 5](./22-QnA-Day-4.md)
+- [23: Retrospective](./23-Retrospective.md)
 
 ## Appendices
 
